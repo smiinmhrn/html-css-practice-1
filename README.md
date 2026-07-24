@@ -7,3 +7,7 @@ Responsive testimonials grid section built with HTML and CSS.
 - HTML5
 - CSS
 - CSS Grid
+
+## Preview
+
+![Project Preview](./desktop-design.jpg)
